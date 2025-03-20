@@ -5,6 +5,13 @@
   "main": "index.js",
   "author": "zignis <zignis@storiny.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storiny/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/storiny/eslint-config/issues"
+  },
   "publishConfig": {
     "access": "public"
   },
